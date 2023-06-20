@@ -1,0 +1,7 @@
+{
+    "name": "root/tr",
+    "require": {
+        "telegram-bot/api": "^2.3",
+        "phpoffice/phpspreadsheet": "^1.24"
+    }
+}
